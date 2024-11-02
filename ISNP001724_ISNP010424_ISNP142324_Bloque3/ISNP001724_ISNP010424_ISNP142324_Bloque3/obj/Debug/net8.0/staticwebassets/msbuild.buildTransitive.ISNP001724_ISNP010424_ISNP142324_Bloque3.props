@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ISNP001724_ISNP010424_ISNP142324_Bloque3.props" />
+</Project>
