@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gOyuLEYBoJbwGFDzzmuVFF1XbnXmnWpIqCNLO4X2g20=",
+  "Hash": "gq4h4mQShnQxj4RMICWjFUrgS551vvCfojZNznkGoww=",
   "Source": "ISNP001724_ISNP010424_ISNP142324_Bloque3",
   "BasePath": "_content/ISNP001724_ISNP010424_ISNP142324_Bloque3",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Oscar Alvarenga\\Desktop\\Actividad_3\\ISNP001724_ISNP010424_ISNP142324_Bloque3\\ISNP001724_ISNP010424_ISNP142324_Bloque3\\wwwroot\\UGB_LOGO_AZUL.png",
+      "SourceId": "ISNP001724_ISNP010424_ISNP142324_Bloque3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Oscar Alvarenga\\Desktop\\Actividad_3\\ISNP001724_ISNP010424_ISNP142324_Bloque3\\ISNP001724_ISNP010424_ISNP142324_Bloque3\\wwwroot\\",
+      "BasePath": "_content/ISNP001724_ISNP010424_ISNP142324_Bloque3",
+      "RelativePath": "UGB_LOGO_AZUL.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UGB_LOGO_AZUL.png"
     }
   ]
 }

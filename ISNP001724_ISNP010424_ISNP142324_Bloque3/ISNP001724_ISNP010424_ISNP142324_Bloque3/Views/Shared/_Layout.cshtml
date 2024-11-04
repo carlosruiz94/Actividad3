@@ -14,7 +14,7 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="" alt="">
+                    <img src="~/UGB_LOGO_AZUL.png" alt="Sistema de peliculas" style="height: 75px" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -23,10 +23,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">INICIO</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="peliculas" asp-action="index">peliculas</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="peliculas" asp-action="index">CONSULTA DE PELICULAS</a>
                         </li>
                     </ul>
                 </div>
@@ -39,10 +39,18 @@
         </main>
     </div>
 
+  
+
     <footer class="border-top footer text-muted">
+        <svg preserveAspectRatio="none" class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path fill="#273036" fill-opacity="1" d="M0,128L48,154.7C96,181,192,235,288,229.3C384,224,480,160,576,149.3C672,139,768,181,864,202.7C960,224,1056,224,1152,192C1248,160,1344,96,1392,64L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+        </svg>
         <div class="container">
             &copy; 2025 - ISNP001724_ISNP010424_ISNP142324 UNIVERSIDAD GERARDO BARRIOS - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
         </div>
+       
+
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
